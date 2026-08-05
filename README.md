@@ -24,7 +24,7 @@ Target trial emulation using MIMIC-IV critical care data. In progress.
 **Tools:** Python (pandas, NumPy, matplotlib, seaborn) · R · R Shiny · SQL
 **Certifications:** ICH-GCP E6(R3) · Good Clinical Laboratory Practice · CITI
 
-[LinkedIn]([https://www.linkedin.com/in/ramya-srijayashanker/])
+[LinkedIn](https://www.linkedin.com/in/ramya-sri-jayashanker/)
 <!--
 **ramya-sjc/ramya-sjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
