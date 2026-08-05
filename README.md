@@ -1,5 +1,30 @@
-## Hi there 👋
+# Ramya Sri Jayashanker Chithra
 
+MSc Health Data Science, University of Galway · ICH-GCP certified · Ireland
+
+Clinical trial data and health data analysis. Independent projects below.
+
+---
+
+### Clinical-Trial-Deconstruction-NCT00463788
+Deconstruction and operational risk assessment of a Phase II oncology trial —
+Cetuximab + Cisplatin in triple-negative metastatic breast cancer. Protocol
+structure, endpoints, data collection points and operational risk.
+Independent project.
+
+### HDS_Project_2425_RS_SN
+MSc thesis. Geospatial and Bayesian analysis of COVID-19 vaccination uptake
+across Irish local electoral areas. Two-person collaboration.
+
+### TTE-Cryptic-Shock-MIMIC
+Target trial emulation using MIMIC-IV critical care data. In progress.
+
+---
+
+**Tools:** Python (pandas, NumPy, matplotlib, seaborn) · R · R Shiny · SQL
+**Certifications:** ICH-GCP E6(R3) · Good Clinical Laboratory Practice · CITI
+
+[LinkedIn](https://www.linkedin.com/in/ramya-srijayashanker/)
 <!--
 **ramya-sjc/ramya-sjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
